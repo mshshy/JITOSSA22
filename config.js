@@ -12,7 +12,7 @@ global.confirmCode = ""
 
 global.owner = [
   ['201067684684', 'Omar !', true],
-  ['3197010526407', 'Omar 1', true],
+  ['201025540749', 'Omar 1', true],
 ];
 
 global.suittag = ['212670941551'];
